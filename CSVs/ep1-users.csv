@@ -1,0 +1,24 @@
+FirstName,LastName,Description,Group,OU,Planet,OUPath,Seperatists,Groups,Password
+Obi-wan,Kenobi,Help me Obi-wan!,Jedi Order,Padawans,,/_galactic-republic/users/Jedi/Padawans,,"jedi, jedi.padawans",P@ssW0rd
+Qui-Gon,Jinn,The dude that taught Obi-wan,Jedi Order,Jedi Masters,,/_galactic-republic/users/Jedi/Jedi_Masters,,"jedi, jedi.masters",P@ssW0rd
+Mace,Windu,That's Samuel L Jackson to you!,Jedi Order,Jedi Masters,,/_galactic-republic/users/Jedi/Jedi_Masters,,"jedi,jedi.masters,jedi.council",P@ssW0rd
+Yoda,,The little green that talks backwards,Jedi Order,Jedi Masters,,/_galactic-republic/users/Jedi/Jedi_Masters,,"jedi,jedi.masters,jedi.council",P@ssW0rd
+Ki-Adi-Mundi,,,Jedi Order,Jedi Masters,,/_galactic-republic/users/Jedi/Jedi_Masters,,"jedi,jedi.masters,jedi.council",P@ssW0rd
+Akar-Desh,,,Jedi Order,Jedi Knights,,/_galactic-republic/users/Jedi/Jedi_Knights,,"jedi,jedi.knights",P@ssW0rd
+Kav,Bayons,,Jedi Order,Jedi Knights,,/_galactic-republic/users/Jedi/Jedi_Knights,,"jedi,jedi.knights",P@ssW0rd
+Lott,Dod,Trade Federation,Senator,Neimoidia,Neimoidia,/_galactic-republic/users/Senate/Neimoidia,Yes,"senators,senators.neimoidia,staff.senators.neimodia",P@ssW0rd
+Silvu,Donte,,Senator,Riflor,Riflor,/_galactic-republic/users/Senate/Riflor,Yes,"senators,senators.riflor,staff.senators.riflor",P@ssW0rd
+Bail,Antilles,,Senator,Alderaan,Alderaan,/_galactic-republic/users/Senate/Alderaan,,"senators,senators.alderann,staff.senators.alderaan",P@ssW0rd
+Sheev,Palpatine,,Senator,Naboo,Naboo,/_galactic-republic/users/Senate/Naboo,,"senators,senators.naboo,staff.senators.naboo",P@ssW0rd
+Edcel,Bar Gane,,Senator,Roona,Roona,/_galactic-republic/users/Senate/Roona,,"senators,senators.roona",P@ssW0rd
+Tendau,Bendon,,Senator,Ithor,Ithor,/_galactic-republic/users/Senate/Ithor,,"senators,senators.ithor",P@ssW0rd
+Onaconda,Farr,"Joined seps, and came back to the republic",Senator,Rodia,Rodia,/_galactic-republic/users/Senate/Rodia,Yes,"senators,senators.rodia",P@ssW0rd
+Com,Fordox,,Senator,Corellia,Corellia,/_galactic-republic/users/Senate/Corellia,,"senators,senators.corellia",P@ssW0rd
+Janus,Greejatus,Emissary To Palpatine,Senator,Chommell Minor,Chommell Minor,/_galactic-republic/users/Senate/Chommell_Minor,,"senators,senators.chommell_minor",P@ssW0rd
+Denaria,Kee,,Senator,Murkhana,Murkhana,/_galactic-republic/users/Senate/Murkhana,,"senators,senators.murkhana",P@ssW0rd
+Po,Nudo,Aqualish,Senator,Ando,Ando,/_galactic-republic/users/Senate/Ando,Yes,"senators,senators.ando",P@ssW0rd
+Polo,Se'Lab,,Senator,Bothawui,Bothawui,/_galactic-republic/users/Senate/Bothawui,,"senators,senators.bothawui",P@ssW0rd
+Ainlee,Teem,,Senator,Malastare,Malastare,/_galactic-republic/users/Senate/Malastare,,"senators,senators.malastare",P@ssW0rd
+Yarua,,Wookie,Senator,Kashyyyk,Kashyyyk,/_galactic-republic/users/Senate/Kashyyyk,,"senators,senators.kashyyk",P@ssW0rd
+Mas,Amedda,Vice Chair of Senate when Palpatine takes over,Senator,Champala,Champala,/_galactic-republic/users/Senate/Champala,,"senators,senators.champala",P@ssW0rd
+Finis,Valorum,Supreme Chancellor,Senator,Coruscant,Coruscant,/_galactic-republic/users/Senate/Coruscant,,"senators,senators.chancellor,senators.coruscant",P@ssW0rd
