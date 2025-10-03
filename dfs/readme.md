@@ -1,3 +1,6 @@
+# Table of Contents
+
+
 # Folder Structure
 ```
 D:/
@@ -57,3 +60,8 @@ $set_membership_settings = @{
 Set-DFSRMembership @set_membership_settings
 ```
 ###### *New-DFSReplicationGroup -GroupName "DFS-Replication" -FolderName "Public-Shares" -ContentPath "D:\Public-Shares" -ComputerName "republic-fs01" -PrimaryMember $true*
+
+## Check event logs for event ID 4112
+```powershell
+Get-WinEvent "DFS Replication" -MaxEvents 5 | fl
+```
