@@ -1,4 +1,6 @@
 # Table of Contents
+[PowerShell Commands](#powershell-commands)<br/>
+[Check Event Logs (id: 4112)](#check-event-logs-for-event-id-4112)
 
 
 # Folder Structure
@@ -28,6 +30,7 @@ D:/
 ```
 
 # Preseed Initial Replication
+
 ## PowerShell Commands
 ### New Replication Group
 ```powershell
