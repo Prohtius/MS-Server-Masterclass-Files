@@ -53,12 +53,12 @@ foreach ($sub_folder in $sub_folders)
 ## Virtualbox
 ### Windows 11
 ### Requirements
-1. Download VirtualBox.<br/>
+1. [Download VirtualBox](https://download.virtualbox.org/virtualbox/7.2.2/VirtualBox-7.2.2-170484-Win.exe)<br/>
 ```
 https://download.virtualbox.org/virtualbox/7.2.2/VirtualBox-7.2.2-170484-Win.exe
 ```
 
-3. Download Microsoft Visual C++ 2019 Redistributable.<br/>
+3. [Download Microsoft Visual C++ 2019 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)<br/>
 ```
 https://aka.ms/vs/17/release/vc_redist.x64.exe
 ```
